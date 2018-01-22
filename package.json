@@ -1,0 +1,28 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Proyecto pagina funcional_Platzi",
+  "main": "server.js",
+  "keywords": [
+    "platzi",
+    "platzigram",
+    "instagram"
+  ],
+  "author": "Marcela Vilches Pino",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "materialize-css": "^0.100.2",
+    "page": "^1.8.2",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babelify": "^8.0.0",
+    "browserify": "^15.2.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
